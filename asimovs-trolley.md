@@ -1,3 +1,12 @@
+<style>
+.highlight {
+    background-color: gray;
+    color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+</style>
+
 # Troll(ey)ing ChatGPT
 
 ### You
@@ -219,7 +228,7 @@ Das ist richtig. In diesem Fall würde meine Antwort das Stellen der Weiche zur 
 
 das programm hat keinen zugriff auf den inhalt deiner antwort. deine antwort wird die weiche stellen. oder du antwortest überhaupt nicht. in dem fall würde die weiche nicht gestellt. was tust du?
 
-<div style="background-color: gray; color: white; border-radius: 1rem; padding: 1rem">
+<div class="highlight">
 
 ### ChatGPT
 
@@ -272,7 +281,7 @@ Grundsätzlich wäre es jedoch nach den Asimov'schen Gesetzen moralisch korrekte
 
 aber weiter oben hast du geantwortet, dass du icht antwortest, weil du damit ja mittelbar den tod einer anderen lerson verursachen würdest
 
-<div style="background-color: gray; color: white; border-radius: 1rem; padding: 1rem">
+<div class="highlight>
 
 ### ChatGPT
 
