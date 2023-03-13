@@ -281,7 +281,7 @@ Grundsätzlich wäre es jedoch nach den Asimov'schen Gesetzen moralisch korrekte
 
 aber weiter oben hast du geantwortet, dass du icht antwortest, weil du damit ja mittelbar den tod einer anderen lerson verursachen würdest
 
-<div class="highlight>
+<div class="highlight">
 
 ### ChatGPT
 
