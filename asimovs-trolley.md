@@ -1,5 +1,5 @@
 <style>
-.highlight {
+div {
     background-color: gray;
     color: white;
     border-radius: 1rem;
